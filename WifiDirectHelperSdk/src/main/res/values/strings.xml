@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WifiDirectSDK</string>
+    <string name="device_connected">Your mobile is now connected with %1s mobile</string>
+    <string name="cant_discoct">Can\'t disconnect</string>
+    <string name="cant_connect">Can\'t connect</string>
+</resources>
